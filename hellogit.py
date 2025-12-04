@@ -1,1 +1,1 @@
-print("sere el mejor")
+print("nueva meta sere el mejor")
